@@ -10,5 +10,5 @@
 
 ### Created by
 
-Prof A Pathmeswaran, Department of Public Health, Faculty of Medicine, University of Kelaniya, Sri Lanka.  
+[Prof A Pathmeswaran,](http://medicine.kln.ac.lk/depts/publichealth/prof-pathmeswaran.html) Department of Public Health, Faculty of Medicine, University of Kelaniya, Sri Lanka.  
 pathmes-at-kln-dot-ac-dot-lk
