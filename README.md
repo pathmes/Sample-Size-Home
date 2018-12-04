@@ -1,6 +1,8 @@
 ## Sample size calculation for medical and allied health students
 
-[Sample size calculation for estimating a percentage](https://pathmes-uok.shinyapps.io/samplesize/)  
+[Sample size calculation for estimating a percentage](https://pathmes-uok.shinyapps.io/samplesize/) 
+
+[Sample size calculation for estimating a mean](https://pathmes-uok.shinyapps.io/samplesize_mean/)
 
 [Sample size calculation for comparing two percentages](https://pathmes-uok.shinyapps.io/ss200/)  
 
