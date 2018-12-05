@@ -6,6 +6,8 @@
 
 [Sample size calculation for comparing two percentages](https://pathmes-uok.shinyapps.io/ss200/)  
 
+[Sample size calculation for estimating a correlation coefficient](https://pathmes-uok.shinyapps.io/samplesize_correlation/)
+
 [Sample Size for non-inferiority trials - numeric outcome](https://pathmes-uok.shinyapps.io/noninf/)
 
 
