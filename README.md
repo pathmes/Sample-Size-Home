@@ -18,5 +18,6 @@ I have made five Shinyapps to do the sample size calculation for some basic stud
 ### Created by
 
 [Prof A Pathmeswaran,](https://medicine.kln.ac.lk/index.php/prof-a-pathmeswaran.html) Department of Public Health, Faculty of Medicine, University of Kelaniya, Sri Lanka.  
-pathmes@kln.ac.lk
+pathmes@kln.ac.lk  
+
 Suggestions welcome but I cannot increase the number of apps to more than five - the limit for Shinyapps free paln!
